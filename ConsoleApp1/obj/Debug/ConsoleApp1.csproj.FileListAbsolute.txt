@@ -1,0 +1,7 @@
+D:\00. C O D E\05. C#\01. Project\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\00. C O D E\05. C#\01. Project\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\00. C O D E\05. C#\01. Project\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\00. C O D E\05. C#\01. Project\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\00. C O D E\05. C#\01. Project\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\00. C O D E\05. C#\01. Project\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\00. C O D E\05. C#\01. Project\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
